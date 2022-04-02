@@ -10,7 +10,7 @@ When using Machine Learning models to solve real-world problems, it is important
 The article presents six different model-agnostic techniques that can be used on any Black-Box model.
 
 ## Data & Model
-To illustrate the different methods, I’ll use a simple Random Forest Classifier to predict High/Low-risk Credit Car Users by using a dataset, from the Public Domain, available on Kaggle. The model is not fine-tuned and obtains a F1-score of 0.71 on the test set.
+To illustrate the different methods, I use a simple Random Forest Classifier to predict High/Low-risk Credit Car Users by using a dataset, from the Public Domain, available on Kaggle. The model is not fine-tuned and obtains a F1-score of 0.71 on the test set.
 
 This type of task requires a good explanation of how the model makes predictions as, if used to accept/decline loans, one needs a good explanation for why applicants may be rejected.
 
