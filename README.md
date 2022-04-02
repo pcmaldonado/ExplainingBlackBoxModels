@@ -1,5 +1,5 @@
 # Explaining Black-Box Models
-This project is shared on a Medium Article: ["Explaining Black-Box in Python"](https://medium.com/@pcmaldonado/simple-guide-to-interpreting-black-box-models-in-python-5c8bb3b5fcae).
+This project is shared on a Medium Article: ["Explaining Black-Box Models in Python"](https://medium.com/@pcmaldonado/simple-guide-to-interpreting-black-box-models-in-python-5c8bb3b5fcae).
 
 ## Overview
 When using Machine Learning models to solve real-world problems, it is important to understand how models make their predictions and how features affect them to:
